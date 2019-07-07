@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hackful</title>
+  <title>Moer</title>
   
-  
+  <subtitle>印迹</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.hackful.cn/"/>
-  <updated>2019-07-06T11:48:01.156Z</updated>
+  <updated>2019-07-07T05:53:53.497Z</updated>
   <id>https://blog.hackful.cn/</id>
   
   <author>
-    <name>Moer</name>
+    <name>Hackful</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://blog.hackful.cn/2019/07/06/hello-world/"/>
     <id>https://blog.hackful.cn/2019/07/06/hello-world/</id>
     <published>2019-07-06T11:48:01.156Z</published>
-    <updated>2019-07-06T11:48:01.156Z</updated>
+    <updated>2019-07-07T05:53:53.497Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,12 @@
     
     </summary>
     
+      <category term="Markdownsss" scheme="https://blog.hackful.cn/categories/Markdownsss/"/>
+    
+    
+      <category term="Typora1" scheme="https://blog.hackful.cn/tags/Typora1/"/>
+    
+      <category term="Markdown1" scheme="https://blog.hackful.cn/tags/Markdown1/"/>
     
   </entry>
   
@@ -43,7 +49,7 @@
     <link href="https://blog.hackful.cn/2018/09/07/example/"/>
     <id>https://blog.hackful.cn/2018/09/07/example/</id>
     <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2019-07-06T13:32:47.341Z</updated>
+    <updated>2019-07-07T05:51:53.532Z</updated>
     
     <summary type="html">
     
